@@ -1,15 +1,10 @@
-"""
-League of Legends Knowledge Agent - Streamlit UI
-Chat interface for the hybrid RAG system
-"""
-
 import streamlit as st
 from rag_backend import LoLRAG
-import os
-from dotenv import load_dotenv
+#import os
+#from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+#load_dotenv()
 
 # Page configuration
 st.set_page_config(
@@ -48,9 +43,9 @@ if 'rag' not in st.session_state:
     # Initialize RAG system
     try:
         st.session_state.rag = LoLRAG(
-            openai_api_key=os.environ.get('OPENAI_API_KEY'),
-            pinecone_api_key=os.environ.get('PINECONE_API_KEY'),
-            pinecone_index_name=os.environ.get('PINECONE_INDEX_NAME', 'lol-rag')
+            openai_api_key=st.secrets['OPENAI_API_KEY'],
+            pinecone_api_key=st.secrets['PINECONE_API_KEY'],
+            pinecone_index_name='lol-rag'
         )
         st.session_state.initialized = True
     except Exception as e:

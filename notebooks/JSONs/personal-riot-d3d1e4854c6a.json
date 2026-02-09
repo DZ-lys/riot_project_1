@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "personal-riot",
+  "private_key_id": "d3d1e4854c6a335948639220a92660eae9190779",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClUwCVqKBVLnPW\nIqA/oHsPCChFsElamzN0wVWrtuhtl8kOUn2om+xRmk3gV2H71l81+Mwydy13jN++\n5WvqrX6xhMg+sQ9h1+E+C3cPhzQpgi2/Ws+gccIxa8aXDdis/gAtlVbT0Ra4Boad\nD527nudP3JP69krLIeS7jt2oow9bnmUoFTmxCVpxLb35kczJjS1XTLK/l9nzhEpv\nlF042qUwS09WCa3KhYHbhqAsu2eCvrtxi1necGU+AZJHzfWRIoovsm4BtGI1kWA/\nORrrLNvE3WjbZFgw7uRN1oYz/DGfH8spgsTnOBo/wgpOgrDo/mBmLdb5QaJcF3by\nDNm/HMsPAgMBAAECggEACfsPU3mpKEtUIe7YNs8k7rzi1YY1f3tUKW3Mkr/Jm2go\n8qznOikjpK+ImQ0ddLs150e8aCWKwKdoEJnAIJxVxDjMcAB3ecQzLHA7wVu7ue/K\nfD1qwHhtrVcg15i15oe1EgtsgQAj+3slYFEDiEKpG0ipRGLfFBFZQjt3RUmG0VSP\nSIClSZGOIN2J8kESEuXLmmtp63qtwLPsZsCK+9tsrnrUzn4vpzXCN4Rsosqr0rI5\nnCpZp5wxSy5n5Ygy1VnPTilO8yZ0JA76/Aw8nKI/23mudp8AcOPiDDv7kRV3RxoK\nJtp3dzQ/i34Dflp0jURNsLSiGYrj9XPo7ADWelVD6QKBgQDb/6hF4nuwDoNKQICR\nuo2oLrEcV/1SvYNAsOdWysllvcBHTsozUCE8rDctx1D7/R3oFvX0w/cnDhbg4xCM\n/t5QkqRE+ZJHmQo59u3HVgg4FZJXguIUVw1tHvBRr40UfX5BSDSu9vmw7/Bs7Jgw\nWQm86arEdAP3zoxOK+Q9ccq3OQKBgQDAYOJWoLiVbTOizudYoVV6mRgOLZcmCKKp\nOlxKw3MkV8FET6bdi817rgX3SJIC31Yz1YXo+NZsIork5tIGejhG8b66tvf+0geu\nORMWtG+yOoApO/HHHATtW1lC2EmxEme1oG6UIcK21/OVydVZqTtUg9W+bTyIqIiU\nSOhs/huMhwKBgDifoMv78yHpWlluKKlZfsRe4C8PZqA5LuMjpSdtolCRej/gQ6LZ\naPSYzsr1lh6Fk4D9B+kr1x0yPyk6yDPCFa5fT/CA2+mZtkwdBi5cMlldFAF6Kn5Z\nuZbwc6JSsNkpQ6nBz+2Im9OyrgsbCkDHaf45lj5iLfNGMk6cdW5rL2XhAoGBAKNS\n3XV8N5ksv7TOAZy+Q4q05LZMwFDa7fXMBUS30E4fboYnNVxLb2U8JfZ9lvB3WYDi\nGzDh6XCeltqkl9RF+PdKD4oHAl5FQ54G+IzDHTzr65iWOrq2r/wvHIXiiBWbsY6C\nKL78NonypusZEldvlF45GsLzjHvc0S9LAoBd71eLAoGBAM4lHakTV6S3cXfibM2o\nDts+hhORBIzg5jUa3AbFdFeMRM0bH8aPLE203GYLSh+CSuqUFcakMGClW46O8mdJ\ncNAEiLfAM1dwnjHUpfukiQ+20UUOw+oUO/AqpQV9x/HH85LC9YiCnXphvUnNMmb9\ny3251fjgzA8RLpUiu1GODfKW\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheat-automator@personal-riot.iam.gserviceaccount.com",
+  "client_id": "106535097575778561357",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheat-automator%40personal-riot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

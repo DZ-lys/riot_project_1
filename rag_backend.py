@@ -32,8 +32,10 @@ class LoLRAG:
 
 CRITICAL: All property values use Title Case:
 - Roles: 'Mage', 'Tank', 'Fighter', 'Assassin', 'Support', 'Marksman'
-- Crowd Control: 'Stun', 'Root', 'Slow', 'Grounded', 'Knockup', etc.
+- Crowd Control: 'Stun', 'Root', 'Slow', 'Grounded', 'Knockup', 'Silence', 'Taunt', 'Fear', 'Charm', 'Blind', 'Suppression', 'Knockback, 'Disarm'
+- Effect Type: 'Shield', 'Heal', 'Blink', 'Dash', 'Stealth', 'Vamp', 'Movement', 'AttackSpeed', 'Lifesteal'
 - Damage: 'Magic', 'Physical', 'True'
+- Stat: 'CriticalStrike', 'Armor', 'MagicResist', 'Health', 'Mana', 'AD', 'AP' 
 - Attack: 'Melee', 'Ranged'
 
 Schema: {schema}

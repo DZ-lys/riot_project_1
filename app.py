@@ -72,11 +72,11 @@ with st.sidebar:
     
     examples = [
         "Which champions have shields?",
-        "Find abilities that stun",
-        "Show me all mages",
-        "Give me abilities with grounded effect",
-        "Which champions are tanks and mages?",
-        "Find ranged champions with crowd control"
+        "Which champions are both tanks and mages",
+        "Show me all true damage abilities",
+        "Find fire-themed mages",
+        "Which shadow assassins are there?",
+        "Show me tanky champions with knockups"
     ]
     
     for example in examples:
